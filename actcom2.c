@@ -2,7 +2,7 @@
 //Algoritmo para obtener una sucesión numércia//
 
 int calcularSucesion(int n) {
-    return (n * (n + 1) * (2 * n + 1)) / 6;      //Formula base//
+    return (n * (n + 1) * (2 * n + 1)) / 6;      //Formula//
 }
 
 int main() {
